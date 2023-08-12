@@ -1,4 +1,3 @@
-```markdown
 # EnariKazuki
 
 `EnariKazuki` is a Ruby gem that converts Japanese characters containing the vowel 'a' into characters with the vowel 'o', including both uppercase and lowercase characters.
