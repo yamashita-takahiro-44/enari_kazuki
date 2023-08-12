@@ -6,7 +6,7 @@
 
 Add this line to your application's Gemfile:
 
-````ruby
+```ruby
 gem 'enari_kazuki'
 
 And then execute:
@@ -32,3 +32,4 @@ This gem is available under the MIT License.
 Bug reports and pull requests are welcome. Please refer to CONTRIBUTING.md for details.
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/yamashita-takahiro-44/enari_kazuki.
+
