@@ -8,28 +8,28 @@ Add this line to your application's Gemfile:
 
 ```ruby
 gem 'enari_kazuki'
-
 And then execute:
 
-```` bundle install
-
+bash
+Copy code
+bundle install
 Or install it yourself as:
 
-````gem install enari_kazuki
-
-## Usage
-
+bash
+Copy code
+gem install enari_kazuki
+Usage
 To use the EnariKazuki gem, call the convert method as follows:
 
-````require 'enari_kazuki'
+ruby
+Copy code
+require 'enari_kazuki'
 
 puts EnariKazuki.convert('なぁんだ、カンタンじゃないか') # のぉんど、コントンじょのいこ
-
-## License
+License
 This gem is available under the MIT License.
 
-## Contributing
+Contributing
 Bug reports and pull requests are welcome. Please refer to CONTRIBUTING.md for details.
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/yamashita-takahiro-44/enari_kazuki.
-
