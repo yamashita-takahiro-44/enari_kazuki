@@ -1,3 +1,4 @@
+```markdown
 # EnariKazuki
 
 `EnariKazuki` is a Ruby gem that converts Japanese characters containing the vowel 'a' into characters with the vowel 'o', including both uppercase and lowercase characters.
@@ -8,28 +9,36 @@ Add this line to your application's Gemfile:
 
 ```ruby
 gem 'enari_kazuki'
+```
+
 And then execute:
 
-bash
-Copy code
+```bash
 bundle install
+```
+
 Or install it yourself as:
 
-bash
-Copy code
+```bash
 gem install enari_kazuki
-Usage
+```
+
+## Usage
+
 To use the EnariKazuki gem, call the convert method as follows:
 
-ruby
-Copy code
+```ruby
 require 'enari_kazuki'
 
 puts EnariKazuki.convert('なぁんだ、カンタンじゃないか') # のぉんど、コントンじょのいこ
-License
+```
+
+## License
 This gem is available under the MIT License.
 
-Contributing
+## Contributing
 Bug reports and pull requests are welcome. Please refer to CONTRIBUTING.md for details.
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/yamashita-takahiro-44/enari_kazuki.
+```
+
