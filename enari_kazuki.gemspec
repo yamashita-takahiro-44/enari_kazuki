@@ -23,4 +23,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency "bundler", "~> 2.0"
   spec.add_development_dependency "rspec", "~> 3.10"
 
+  spec.files = `git ls-files -z`.split("\x0").grep_v(%r{^(test|spec|features)/}) - ["enari_kazuki-0.1.0.gem"]
+
 end
