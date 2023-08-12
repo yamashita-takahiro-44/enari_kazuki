@@ -40,5 +40,3 @@ This gem is available under the MIT License.
 Bug reports and pull requests are welcome. Please refer to CONTRIBUTING.md for details.
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/yamashita-takahiro-44/enari_kazuki.
-```
-
